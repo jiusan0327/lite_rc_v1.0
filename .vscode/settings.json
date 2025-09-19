@@ -1,0 +1,47 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\13588\\esp\\v5.3\\esp-idf",
+  "idf.toolsPathWin": "C:\\Espressif",
+  "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "OPENOCD_SCRIPTS": "C:\\Espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20240318/openocd-esp32/share/openocd/scripts",
+    "IDF_CCACHE_ENABLE": "1",
+    "ESP_ROM_ELF_DIR": "C:\\Espressif\\tools\\esp-rom-elfs\\20240305/",
+    "IDF_TARGET": "esp32s3"
+  },
+  "files.associations": {
+    "*.proto": "go",
+    "st7735s.h": "c",
+    "gpio.h": "c",
+    "ratio": "c",
+    "random": "c",
+    "esp_system.h": "c",
+    "uart.h": "c",
+    "uart_tr.h": "c",
+    "esp_log.h": "c",
+    "cstring": "c",
+    "ble.h": "c",
+    "adc.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "adc_continuous.h": "c",
+    "adc_types.h": "c",
+    "esp_gatt_common_api.h": "c",
+    "rmt_fsm.h": "c",
+    "cstdint": "c",
+    "buzz.h": "c",
+    "user_ui.h": "c",
+    "lcd_font.h": "c",
+    "pca9555.h": "c",
+    "variant": "c",
+    "memory.h": "c",
+    "string.h": "c",
+    "nvs_flash.h": "c",
+    "stdint.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM6"
+}
